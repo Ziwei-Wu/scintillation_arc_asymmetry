@@ -2,8 +2,8 @@
 
 step-1
 
-run ./auto_run.bash
+    run ./auto_run.bash
 
 step-2
 
-python plot_asymmetry.py *asymmetry.txt
+    python plot_asymmetry.py *asymmetry.txt
